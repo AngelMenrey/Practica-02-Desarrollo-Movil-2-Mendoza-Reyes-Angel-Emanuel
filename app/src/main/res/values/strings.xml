@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica02MendozaReyesAngelEmanuel</string>
+    <string name="nombre_negocio">GameHub Online Store</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+    <string name="productos_ofrecidos">
+    Consolas de videojuegos: PlayStation, Xbox, Nintendo Switch, entre otras.
+    \n\n
+    Videojuegos: Títulos de acción, aventura, RPG, deportes, y más para diferentes plataformas.
+    \n\n
+    Accesorios de juego: Controles, auriculares, volantes de carreras, teclados y ratones para gaming, etc.
+    \n\n
+    Tarjetas de regalo: Créditos para tiendas digitales como PlayStation Store, Xbox Live, y Nintendo eShop.
+    \n\n
+    Merchandising: Camisetas, figuras de colección, posters, y otros artículos relacionados con tus juegos favoritos.
+</string>
+</resources>
